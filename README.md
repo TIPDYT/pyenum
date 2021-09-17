@@ -5,7 +5,7 @@ It is a library that adds enumeration to Python
 It's like any other programming languages.
 ## What's the syntax?
 Example:
-```progrlang = enum(["C", "Python", "Ruby", "Swift", "Java", "JavaScript", "Scala", "Perl"])``
+```progrlang = enum(["C", "Python", "Ruby", "Swift", "Java", "JavaScript", "Scala", "Perl"])```
 
 Now you can use it in if statements
 
